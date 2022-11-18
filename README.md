@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/node.js)
 # Node.js 
-Curso de programação JavaScript com uso da plataforma Node.
+Curso de JavaScript para back-end.
 ## Autor
 Professor José de Assis
 ## Links
