@@ -4,7 +4,7 @@ Este tutorial é indicado para quem quer avançar na linguagem JavaScript forman
 
 ![bar progress](https://github.com/professorjosedeassis/node/blob/main/imagens/bar.png)
 
-Curso em produção. Acompanhe as atualizações no canal do YouTube:
+Em produção. Acompanhe as atualizações no canal do YouTube:
 
 [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
 
