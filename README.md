@@ -17,6 +17,8 @@ Professor José de Assis
 
 [npm](https://www.npmjs.com/)
 
+[Simulador de operadores lógico](https://professorjosedeassis.github.io/simulador/)
+
 ## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
