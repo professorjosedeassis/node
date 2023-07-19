@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/professorjosedeassis/node#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
