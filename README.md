@@ -6,7 +6,7 @@ Este curso é indicado para quem quer avançar na linguagem JavaScript formando 
 
 Em produção. Acompanhe as atualizações no canal do YouTube:
 
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
 
 ## Autor
 Professor José de Assis
