@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/node.js)
-# Node.js - JavaScript avançado
+# Node.js - Curso avançado de JavaScript
 Este curso é indicado para quem quer avançar na linguagem JavaScript formando uma base sólida para o desenvolvimento de aplicações back-end, mobile, web apps, jogos etc.
 
 ![bar progress](https://github.com/professorjosedeassis/node/blob/main/img/bar.png)
