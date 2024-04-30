@@ -51,7 +51,7 @@ class Enxada extends Bloco {
 
     //polimorfismo
     minerar() {
-        console.log("✞ Dano atribuído!") 
+        console.log("✞ Dano atribuído!")
     }
 }
 

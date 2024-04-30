@@ -27,8 +27,7 @@ class User {
 
 /** SISTEMA **/
 console.clear()
-const user1 = new User("admin","1234")
+const user1 = new User("admin", "1234")
 user1.logar()
 user1.setSenha("123456")
 user1.logar()
-

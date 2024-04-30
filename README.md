@@ -2,10 +2,6 @@
 # Node.js - Curso avançado de JavaScript
 Este curso é indicado para quem quer avançar na linguagem JavaScript formando uma base sólida para o desenvolvimento de aplicações back-end, mobile, web apps, jogos etc.
 
-![bar progress](https://github.com/professorjosedeassis/node/blob/main/img/bar.png)
-
-Em produção. Acompanhe as atualizações no canal do YouTube:
-
 ▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
 
 ## Autor
