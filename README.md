@@ -1,11 +1,14 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/node.js)
-# Node.js - Curso avançado de JavaScript
+# Curso avançado de JavaScript com uso da plataforma node
 Este curso é indicado para quem quer avançar na linguagem JavaScript formando uma base sólida para o desenvolvimento de aplicações back-end, mobile, web apps, jogos etc.
-
-▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
-
 ## Autor
 Professor José de Assis
+### Apresentação
+[![Curso primeiros passos com JavaScript](https://img.youtube.com/vi/S6ew1nLgLhM/0.jpg)](https://youtu.be/S6ew1nLgLhM?si=8HtwbaJ3quOZ-b5h "Asssistir no YouTube")
+
+![YouTube Video Views](https://img.shields.io/youtube/views/S6ew1nLgLhM?style=social)
+### Iniciar curso:
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
 ## Links indicados
 [node](https://nodejs.org/en/)
 
