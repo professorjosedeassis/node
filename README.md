@@ -12,6 +12,8 @@ Professor José de Assis
 ![YouTube Video Views](https://img.shields.io/youtube/views/S6ew1nLgLhM?style=social)
 ### Iniciar curso:
 ▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqzioSn8cZb6VHEbqdsuSAQI)
+### Certificado deste curso:
+🎓 [Iniciar teste](https://forms.gle/aiSWYaSDpqDj14Ds8)
 ## Links indicados
 [node](https://nodejs.org/en/)
 
