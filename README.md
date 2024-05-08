@@ -1,9 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/node.js)
 # Desenvolvimento profissional em JavaScript
-
-**Curso avançado com uso da plataforma node.**
-
-Este curso é indicado para quem quer avançar na linguagem JavaScript formando uma base sólida para o desenvolvimento de aplicações back-end, mobile, web apps, jogos etc.
+Este curso é indicado a alunos e profissionais de TI que desejam avançar em JavaScript usando a sintaxe moderna da linguagem e a plataforma Node. Ao final do curso, os alunos terão uma base sólida para começar a desenvolver projetos inovadores que fazem uso de modernos frameworks.
 ## Autor
 Professor José de Assis
 ### Apresentação
